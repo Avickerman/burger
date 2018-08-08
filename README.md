@@ -6,4 +6,5 @@
 
 ## Your burger is stored in a database, whether devoured or not.
 
-### Heroku link: https://git.heroku.com/tranquil-brook-59522.git
+### Heroku link: https://burger-avickerm.herokuapp.com/index
+<!-- https://git.heroku.com/tranquil-brook-59522.git -->
